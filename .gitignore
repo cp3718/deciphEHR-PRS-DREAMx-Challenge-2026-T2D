@@ -1,1 +1,10 @@
-
+outputs/
+*.rds
+*.RData
+*.rda
+*.sscore
+*.log
+*.out
+*.err
+.Rhistory
+.RData
